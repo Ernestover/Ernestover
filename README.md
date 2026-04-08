@@ -8,9 +8,10 @@ My name is Ernest, and I am a Computer Science major at Louisiana Tech Universit
 - Currently, I am programming my **NUCLEO-L476RG** to flash an LED without using any libraries. I am also actively learning embedded programming through the book “Programming Embedded Systems” and delving into the fundamental workings of these systems. I am particularly drawn to the concept of continuous learning and am eager to acquire new knowledge every day.
 
 Here is a quick snapshot of some of the things I have worked on:<br>
-![temp-sensor](mobile-battery.jpeg)
+<img src="mobile-battery.jpeg" alt="Mobile battery supply for microcontrollers" width="200"/>
 
-![mobile-battery](temp-sensor.jpeg)
+<img src="temp-sensor.jepg" alt="temperature and humidity sensor" width="200"/>
+
 
 
 <!--
