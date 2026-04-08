@@ -8,7 +8,7 @@ My name is Ernest, and I am a Computer Science major at Louisiana Tech Universit
 - Currently, I am programming my **NUCLEO-L476RG** to flash an LED without using any libraries. I am also actively learning embedded programming through the book “Programming Embedded Systems” and delving into the fundamental workings of these systems. I am particularly drawn to the concept of continuous learning and am eager to acquire new knowledge every day.
 
 Here is a quick snapshot of some of the things I have worked on:<br>
-![Image](https://github.com/user-attachments/assets/6c479bf6-4b46-4eab-bddf-262de239ecee)
+![sensor](https://github.com/user-attachments/assets/9c046720-cb2d-4ea3-933a-03333977150e)
 
 ![Image](https://github.com/user-attachments/assets/e6b81af3-9c18-4b4a-a3aa-9cad63e0edfb)
 
