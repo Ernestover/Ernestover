@@ -9,8 +9,7 @@ My name is Ernest, and I am a Computer Science major at Louisiana Tech Universit
 
 Here is a quick snapshot of some of the things I have worked on:<br>
 <img src="mobile-battery.jpeg" alt="Mobile battery supply for microcontrollers" width="200"/>
-
-<img src="temp-sensor.jepg" alt="temperature and humidity sensor" width="200"/>
+<img src="temp-sensor.jpeg" alt="Temperature and humidity sensor" width="200"/>
 
 
 
