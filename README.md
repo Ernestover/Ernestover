@@ -11,10 +11,6 @@ Here is a quick snapshot of some of the things I have worked on:<br>
 ![temp-sensor](https://github.com/user-attachments/assets/74030cad-dd05-4296-a3a4-42c12e4d2cc1)
 ![mobile-battery](https://github.com/user-attachments/assets/87a489a4-d3de-4aa0-b4e0-b3744ced36c3)
 
-<img src="mobile-battery.jpeg" alt="Mobile battery supply for microcontrollers" width="200"/>
-<img src="temp-sensor.jpeg" alt="Temperature and humidity sensor" width="200"/>
-
-
 
 <!--
 **Ernestover/Ernestover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
