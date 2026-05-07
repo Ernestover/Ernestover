@@ -4,10 +4,10 @@ Computer Science Major | Cybersecurity & Computer Engineering Concentration | EE
 I am a low-level enthusiast focused on the intersection of hardware and software. I thrive on understanding how systems work from the register level up, with a specific interest in Embedded Systems Engineering and Secure Hardware Design.
 ***
 ### Technical Deep Dive
-  - Languages: C (Low-level/Bare-metal), Python, Assembly(CISC & RISC)
+  - Languages: C (Low-level/Bare-metal), Python, Assembly(CISC & RISC), React
   - Embedded Hardware: STM32 (NUCELO-L476RG), Raspberry Pi Pico, Arduino
   - Networking & Cyber: Inter-VLAN Routing, DHCP Configuration, Secure System Design
-  - Toos: Cisco Packet Tracer, Linux/Unix, CMake, Git
+  - Tools: Cisco Packet Tracer, Linux/Unix, CMake, Git
 ***
 ### Featured Lab Work 
 Bare-Metal LED Driver | STM32 NUCLEO-L476RG
